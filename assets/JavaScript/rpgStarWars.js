@@ -5,28 +5,28 @@ $(document).ready(function() {
 			name: "Obi-Wan Kenobi",
 			health: 120,
 			attack: 8,
-			imageUrl: "assets/images/obi-wan.jpg",
+			imageUrl: "assets/Images/obi-wan.jpg",
 			enemyAttackBack:15
 		},
 		"Luke Skywalker": {
 			name: "Luke Skywalker",
 			health: 100,
 			attack: 14,
-			imageUrl: "assets/images/luke-skywalker.png",
+			imageUrl: "assets/Images/luke-skywalker.png",
 			enemyAttackBack:5
 		},
 		"Darth Sidious": {
 			name: "Darth Sidious",
 			health: 150,
 			attack: 8,
-			imageUrl: "assets/images/darth-sidious.png",
+			imageUrl: "assets/Images/darth-sidious.png",
 			enemyAttackBack:5
 		},
 		"Darth Maul": {
 			name: "Darth Maul",
 			health: 180,
 			attack: 7,
-			imageUrl: "assets/images/darth-maul.jpg",
+			imageUrl: "assets/Images/darth-maul.jpg",
 			enemyAttackBack:25
 		}
 	};
